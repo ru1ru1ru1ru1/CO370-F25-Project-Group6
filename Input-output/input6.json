@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Erin Mills Transitway -> Barrie South Go bus_option_1",
+    "legs": [
+      {
+        "label": "Erin Mills Transitway -> Bramalea Go",
+        "route_short_name": "41",
+        "origin_stop_id": "02214",
+        "dest_stop_id": "08041",
+        "dep_time_str": "08:40:00"
+      },
+      {
+        "label": "Bramalea Go -> Union Station Go",
+        "route_short_name": "KI",
+        "origin_stop_id": "BE",
+        "dest_stop_id": "UN",
+        "dep_time_str": "09:20:00"
+      },
+      {
+        "label": "Union Station Go -> Barrie South Go",
+        "route_short_name": "BR",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "BA",
+        "dep_time_str": "09:54:00"
+      }
+    ]
+  },
+  
+  {
+    "name": "Erin_Mills_to_Barrie_option_2",
+    "legs": [
+      {
+        "label": "Erin Mills Transitway -> Hwy 407 Bus Terminal",
+        "route_short_name": "41",
+        "origin_stop_id": "02214",
+        "dest_stop_id": "02673",
+        "dep_time_str": "08:05:00"
+      },
+      {
+        "label": "Hwy 407 -> East Gwillimbury GO",
+        "route_short_name": "66",
+        "origin_stop_id": "02674",
+        "dest_stop_id": "00276",
+        "dep_time_str": "09:25:00"
+      },
+      {
+        "label": "East Gwillimbury -> Barrie South Go",
+        "route_short_name": "BR",
+        "origin_stop_id": "EA",
+        "dest_stop_id": "BA",
+        "dep_time_str": "10:56:00"
+      }
+    ]
+  },
+
+  {
+    "name": "Erin_Mills_to_Barrie_option_3",
+    "legs": [
+      {
+        "label": "Erin Mills Transitway -> Square One",
+        "route_short_name": "41",
+        "origin_stop_id": "02214",
+        "dest_stop_id": "00132",
+        "dep_time_str": "12:28:00"
+      },
+      {
+        "label": "Square One -> Union Station GO",
+        "route_short_name": "21",
+        "origin_stop_id": "00132",
+        "dest_stop_id": "02300",
+        "dep_time_str": "12:45:00"
+      },
+      {
+        "label": "Union Station GO -> Barrie South GO",
+        "route_short_name": "BR",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "BA",
+        "dep_time_str": "14:01:00"
+      }
+    ]
+  },
+
+  {
+    "name": "Erin_Mills_to_Barrie_option_4",
+    "legs": [
+      {
+        "label": "Erin Mills Transitway -> Bramalea Go",
+        "route_short_name": "56",
+        "origin_stop_id": "02214",
+        "dest_stop_id": "08041",
+        "dep_time_str": "13:12:00"
+      },
+      {
+        "label": "Bramalea Go -> Union Station Go",
+        "route_short_name": "KI",
+        "origin_stop_id": "BE",
+        "dest_stop_id": "UN",
+        "dep_time_str": "14:00:00"
+      },
+      {
+        "label": "Union Station -> Bradford GO",
+        "route_short_name": "BR",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "BD",
+        "dep_time_str": "15:02:00"
+      },
+      {
+        "label": "Bradford -> Barrie South Go",
+        "route_short_name": "68",
+        "origin_stop_id": "02160",
+        "dest_stop_id": "00345",
+        "dep_time_str": "16:38:00"
+      }
+    ]
+  }
+
+  
+  
+]

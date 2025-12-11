@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Brampton Innovation District Go -> Durham College Oshawa Go_option_1",
+    "legs": [
+      {
+        "label": "Brampton -> Union Station",
+        "route_short_name": "KI",
+        "origin_stop_id": "BR",
+        "dest_stop_id": "UN",
+        "dep_time_str": "06:20:00"
+      },
+      {
+        "label": "Union Station -> Durham College Oshawa GO",
+        "route_short_name": "LE",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "OS",
+        "dep_time_str": "07:12:00"
+      }
+    ]
+  },
+  {
+  "name": "Brampton Innovation District Go -> Durham College Oshawa Go_option_2",
+  "legs": [
+    {
+      "label": "Brampton -> Bramalea",
+      "route_short_name": "KI",
+      "origin_stop_id": "BR",
+      "dest_stop_id": "BE",
+      "dep_time_str": "06:20:00"
+    },
+    {
+      "label": "Bramalea -> Oshawa",
+      "route_short_name": "56",
+      "origin_stop_id": "08041",
+      "dest_stop_id": "00159",
+      "dep_time_str": "06:55:00"
+    }
+  ]
+},
+  {
+    "name": "Brampton Innovation District Go -> Durham College Oshawa Go_option_3",
+    "legs": [
+      {
+        "label": "Brampton -> York Mills",
+        "route_short_name": "33",
+        "origin_stop_id": "00221",
+        "dest_stop_id": "00011",
+        "dep_time_str": "08:15:00"
+      },
+      {
+        "label": "York Mills -> Oshawa",
+        "route_short_name": "92",
+        "origin_stop_id": "00011",
+        "dest_stop_id": "00159",
+        "dep_time_str": "09:55:00"
+      }
+    ]
+  },
+  {
+    "name": "Brampton Innovation District Go -> Durham College Oshawa Go_option_4",
+    "legs": [
+      {
+        "label": "Brampton -> Hurontario St. @Hwy407 Park & Ride",
+        "route_short_name": "33",
+        "origin_stop_id": "00221",
+        "dest_stop_id": "00354",
+        "dep_time_str": "08:15:00"
+      },
+      {
+        "label": "Hurontario St. @Hwy407 Park & Ride -> Bramalea",
+        "route_short_name": "48",
+        "origin_stop_id": "00354",
+        "dest_stop_id": "08041",
+        "dep_time_str": "08:49:00"
+      },
+      {
+        "label": "Bramalea -> Pickering",
+        "route_short_name": "41",
+        "origin_stop_id": "08041",
+        "dest_stop_id": "00147",
+        "dep_time_str": "09:30:00"
+      },
+      {
+        "label": "Pickering -> Oshawa",
+        "route_short_name": "LE",
+        "origin_stop_id": "PIN",
+        "dest_stop_id": "OS",
+        "dep_time_str": "11:03:00"
+      }
+    ]
+  },
+  {
+    "name": "Brampton Innovation District Go -> Durham College Oshawa Go_option_5",
+    "legs": [
+      {
+        "label": "Brampton -> Yorkdale",
+        "route_short_name": "33",
+        "origin_stop_id": "00221",
+        "dest_stop_id": "00019",
+        "dep_time_str": "09:10:00"
+      },
+      {
+        "label": "Yorkdale -> Pickering",
+        "route_short_name": "94",
+        "origin_stop_id": "00019",
+        "dest_stop_id": "00147",
+        "dep_time_str": "10:15:00"
+      },
+      {
+        "label": "Pickering -> Oshawa",
+        "route_short_name": "LE",
+        "origin_stop_id": "PIN",
+        "dest_stop_id": "OS",
+        "dep_time_str": "11:33:00"
+      }
+    ]
+  }
+]

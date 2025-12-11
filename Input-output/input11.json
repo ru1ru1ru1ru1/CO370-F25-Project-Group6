@@ -1,0 +1,172 @@
+[
+  {
+    "name": "University_of_Waterloo_to_Maple_Go_option_1",
+    "legs": [
+      {
+        "label": "University of Waterloo -> Aldershot",
+        "route_short_name": "17",
+        "origin_stop_id": "02799",
+        "dest_stop_id": "00180",
+        "dep_time_str": "06:50:00"
+      },
+      {
+        "label": "Aldershot -> Union Station",
+        "route_short_name": "LW",
+        "origin_stop_id": "AL",
+        "dest_stop_id": "UN",
+        "dep_time_str": "07:10:00"
+      },
+      {
+        "label": "Union Station -> Maple Go",
+        "route_short_name": "BR",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "MP",
+        "dep_time_str": "10:54:00"
+      }
+    ]
+  },
+  {
+  "name": "University_of_Waterloo_to_Maple_Go_option_2",
+  "legs": [
+    {
+      "label": "University of Waterloo -> Guelph Central Station",
+      "route_short_name": "17",
+      "origin_stop_id": "02799",
+      "dest_stop_id": "02519",
+      "dep_time_str": "06:55:00"
+    },
+    {
+      "label": "Guelph Central Station -> Union Station",
+      "route_short_name": "KI",
+      "origin_stop_id": "GL",
+      "dest_stop_id": "UN",
+      "dep_time_str": "07:57:00"
+    },
+    {
+      "label": "Union Station -> Maple GO",
+      "route_short_name": "BR",
+      "origin_stop_id": "UN",
+      "dest_stop_id": "MP",
+      "dep_time_str": "09:54:00"
+    }
+  ]
+},
+  {
+    "name": "University_of_Waterloo_to_Maple_Go_option_3",
+    "legs": [
+      {
+        "label": "University of Waterloo -> Kitchener",
+        "route_short_name": "30",
+        "origin_stop_id": "02799",
+        "dest_stop_id": "02186",
+        "dep_time_str": "07:11:00"
+      },
+      {
+        "label": "Kitchener -> Union Station",
+        "route_short_name": "KI",
+        "origin_stop_id": "KI",
+        "dest_stop_id": "UN",
+        "dep_time_str": "08:08:00"
+      },
+      {
+        "label": "Union Station -> Maple Go",
+        "route_short_name": "BR",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "MP",
+        "dep_time_str": "11:54:00"
+      }
+    ]
+  },
+  {
+    "name": "University_of_Waterloo_to_Maple_Go_option_4",
+    "legs": [
+      {
+        "label": "University of Waterloo -> Square One",
+        "route_short_name": "25",
+        "origin_stop_id": "02799",
+        "dest_stop_id": "00132",
+        "dep_time_str": "08:25:00"
+      },
+      {
+        "label": "Square One -> Union Station",
+        "route_short_name": "21",
+        "origin_stop_id": "00132",
+        "dest_stop_id": "02300",
+        "dep_time_str": "10:20:00"
+      },
+      {
+        "label": "Union Station -> Maple Go",
+        "route_short_name": "BR",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "MP",
+        "dep_time_str": "11:54:00"
+      }
+    ]
+  },
+  {
+    "name": "University_of_Waterloo_to_Maple_Go_option_5",
+    "legs": [
+      {
+        "label": "University of Waterloo -> Square One",
+        "route_short_name": "25",
+        "origin_stop_id": "02799",
+        "dest_stop_id": "00132",
+        "dep_time_str": "08:25:00"
+      },
+      {
+        "label": "Square One -> Bramalea GO",
+        "route_short_name": "41",
+        "origin_stop_id": "00132",
+        "dest_stop_id": "08041",
+        "dep_time_str": "10:15:00"
+      },
+      {
+        "label": "Bramalea Go -> Union",
+        "route_short_name": "KI",
+        "origin_stop_id": "BE",
+        "dest_stop_id": "UN",
+        "dep_time_str": "11:00:00"
+      },
+      {
+        "label": "Union Go -> Maple Go",
+        "route_short_name": "BR",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "MP",
+        "dep_time_str": "11:54:00"
+      }
+    ]
+  },
+  {
+    "name": "University_of_Waterloo_to_Maple_Go_option_6",
+    "legs": [
+      {
+        "label": "University of Waterloo -> Erin Mills Transit Bus",
+        "route_short_name": "25",
+        "origin_stop_id": "02799",
+        "dest_stop_id": "02214",
+        "dep_time_str": "9:30:00"
+      },
+      {
+        "label": "Erin Mills -> Bramalea",
+        "route_short_name": "41",
+        "origin_stop_id": "02214",
+        "dest_stop_id": "08041",
+        "dep_time_str": "11:00:00"
+      },
+      {
+        "label": "Bramalea -> Union",
+        "route_short_name": "KI",
+        "origin_stop_id": "BE",
+        "dest_stop_id": "UN",
+        "dep_time_str": "12:00:00"
+      },
+      {
+        "label": "Union -> Maple",
+        "route_short_name": "BR",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "MP",
+        "dep_time_str": "12:54:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Townline @ Mill St. (Orangeville) Park & Ride -> Durham College Oshawa Go_option1",
+    "legs": [
+      {
+        "label": "Townline @ Mill St. (Orangeville) Park & Ride -> Brampton Bus Terminal",
+        "route_short_name": "37",
+        "origin_stop_id": "00349",
+        "dest_stop_id": "00221",
+        "dep_time_str": "15:39:00"
+      },
+      {
+        "label": "Brampton Bus Terminal -> Bramalea Go",
+        "route_short_name": "31",
+        "origin_stop_id": "00221",
+        "dest_stop_id": "02728",
+        "dep_time_str": "16:40:00"
+      },
+      {
+        "label": "Bramalea GO -> Union Station GO",
+        "route_short_name": "KI",
+        "origin_stop_id": "BE",
+        "dest_stop_id": "UN",
+        "dep_time_str": "17:28:00"
+      },
+      {
+        "label": "Union Station GO -> Durham College Oshawa GO",
+        "route_short_name": "LE",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "OS",
+        "dep_time_str": "18:20:00"
+      }
+    ]
+  },
+  {
+  "name": "Townline @ Mill St. (Orangeville) Park & Ride -> Durham College Oshawa Go_option2",
+  "legs": [
+    {
+      "label": "Townline @ Mill St. (Orangeville) Park & Ride -> Brampton Bus Terminal",
+      "route_short_name": "37",
+      "origin_stop_id": "00349",
+      "dest_stop_id": "00221",
+      "dep_time_str": "15:39:00"
+    },
+    {
+      "label": "Brampton Bus Terminal -> Bramalea GO",
+      "route_short_name": "31",
+      "origin_stop_id": "00221",
+      "dest_stop_id": "02728",
+      "dep_time_str": "16:40:00"
+    },
+    {
+      "label": "Bramalea GO -> Durham College Oshawa GO",
+      "route_short_name": "56",
+      "origin_stop_id": "08041",
+      "dest_stop_id": "00159",
+      "dep_time_str": "17:23:00"
+    }
+  ]
+}   
+]

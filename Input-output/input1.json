@@ -1,0 +1,217 @@
+[
+  {
+  "name": "waterloo_to_niagara_option_1",
+  "legs": [
+    {
+      "label": "University of Waterloo -> Erin Mills",
+      "route_short_name": "25",
+      "origin_stop_id": "02799",
+      "dest_stop_id": "02214",
+      "dep_time_str": "06:20:00"
+    },
+    {
+      "label": "Erin Mills -> Dundas/Hwy 407 (47G)",
+      "route_short_name": "47",
+      "origin_stop_id": "02215",
+      "dest_stop_id": "00139",
+      "dep_time_str": "07:55:00"
+    },
+    {
+      "label": "Dundas/Hwy 407 -> Niagara Falls",
+      "route_short_name": "12",
+      "origin_stop_id": "00139",
+      "dest_stop_id": "02408",
+      "dep_time_str": "08:42:00"
+    }
+  ]
+},
+{
+  "name": "waterloo_to_niagara_option_2",
+  "legs": [
+    {
+      "label": "University of Waterloo -> Kitchener GO",
+      "route_short_name": "30",
+      "origin_stop_id": "02799",
+      "dest_stop_id": "02186",
+      "dep_time_str": "07:11:00"
+    },
+    {
+      "label": "Kitchener GO -> Union (Kitchener line)",
+      "route_short_name": "KI",
+      "origin_stop_id": "KI",
+      "dest_stop_id": "UN",
+      "dep_time_str": "07:38:00"
+    },
+    {
+      "label": "Union -> Burlington (Lakeshore West)",
+      "route_short_name": "LW",
+      "origin_stop_id": "UN",
+      "dest_stop_id": "BU",
+      "dep_time_str": "09:47:00"
+    },
+    {
+      "label": "Burlington -> Niagara Falls (12B)",
+      "route_short_name": "12",
+      "origin_stop_id": "00177",
+      "dest_stop_id": "02408",
+      "dep_time_str": "10:58:00"
+    }
+  ]
+},
+{
+  "name": "waterloo_to_niagara_option_3",
+  "legs": [
+    {
+      "label": "University of Waterloo -> Aldershot",
+      "route_short_name": "17",
+      "origin_stop_id": "02799",
+      "dest_stop_id": "00180",
+      "dep_time_str": "07:55:00"
+    },
+    {
+      "label": "Aldershot -> Niagara Falls (Lakeshore West)",
+      "route_short_name": "LW",
+      "origin_stop_id": "AL",
+      "dest_stop_id": "NI",
+      "dep_time_str": "10:03:00"
+    }
+  ]
+},
+{
+  "name": "waterloo_to_niagara_option_4",
+  "legs": [
+    {
+      "label": "University of Waterloo -> McMaster University",
+      "route_short_name": "17",
+      "origin_stop_id": "02799",
+      "dest_stop_id": "00310",
+      "dep_time_str": "07:55:00"
+    },
+    {
+      "label": "McMaster University -> Dundas/Hwy 407",
+      "route_short_name": "41",
+      "origin_stop_id": "00310",
+      "dest_stop_id": "00139",
+      "dep_time_str": "10:17:00"
+    },
+    {
+      "label": "Dundas/Hwy 407 -> Niagara Falls",
+      "route_short_name": "12",
+      "origin_stop_id": "00139",
+      "dest_stop_id": "02408",
+      "dep_time_str": "10:43:00"
+    }
+  ]
+},
+{
+  "name": "waterloo_to_niagara_option_5",
+  "legs": [
+    {
+      "label": "University of Waterloo -> Aldershot",
+      "route_short_name": "17",
+      "origin_stop_id": "02799",
+      "dest_stop_id": "00180",
+      "dep_time_str": "09:00:00"
+    },
+    {
+      "label": "Aldershot -> Burlington (Lakeshore West)",
+      "route_short_name": "LW",
+      "origin_stop_id": "AL",
+      "dest_stop_id": "BU",
+      "dep_time_str": "11:06:00"
+    },
+    {
+      "label": "Burlington -> Niagara Falls (12B)",
+      "route_short_name": "12",
+      "origin_stop_id": "00177",
+      "dest_stop_id": "02408",
+      "dep_time_str": "11:58:00"
+    }
+  ]
+},
+{
+  "name": "waterloo_to_niagara_option_6",
+  "legs": [
+    {
+      "label": "University of Waterloo -> Square One (25C)",
+      "route_short_name": "25",
+      "origin_stop_id": "02799",
+      "dest_stop_id": "00132",
+      "dep_time_str": "15:55:00"
+    },
+    {
+      "label": "Square One -> Oakville (56)",
+      "route_short_name": "56",
+      "origin_stop_id": "00133",
+      "dest_stop_id": "00137",
+      "dep_time_str": "17:30:00"
+    },
+    {
+      "label": "Oakville -> Burlington (Lakeshore West)",
+      "route_short_name": "LW",
+      "origin_stop_id": "OA",
+      "dest_stop_id": "BU",
+      "dep_time_str": "18:15:00"
+    },
+    {
+      "label": "Burlington -> Niagara Falls (12B)",
+      "route_short_name": "12",
+      "origin_stop_id": "00177",
+      "dest_stop_id": "02408",
+      "dep_time_str": "19:03:00"
+    }
+  ]
+},
+{
+  "name": "waterloo_to_niagara_option_7",
+  "legs": [
+    {
+      "label": "University of Waterloo -> Aldershot",
+      "route_short_name": "17",
+      "origin_stop_id": "02799",
+      "dest_stop_id": "00180",
+      "dep_time_str": "17:45:00"
+    },
+    {
+      "label": "Aldershot -> Confederation (Lakeshore West)",
+      "route_short_name": "LW",
+      "origin_stop_id": "AL",
+      "dest_stop_id": "CF",
+      "dep_time_str": "19:56:00"
+    },
+    {
+      "label": "Confederation -> Niagara Falls",
+      "route_short_name": "12",
+      "origin_stop_id": "02730",
+      "dest_stop_id": "02408",
+      "dep_time_str": "21:13:00"
+    }
+  ]
+},
+{
+  "name": "waterloo_to_niagara_option_8",
+  "legs": [
+    {
+      "label": "University of Waterloo -> Square One (25C)",
+      "route_short_name": "25",
+      "origin_stop_id": "02799",
+      "dest_stop_id": "00132",
+      "dep_time_str": "18:10:00"
+    },
+    {
+      "label": "Square One -> Dundas/Hwy 407 (41)",
+      "route_short_name": "41",
+      "origin_stop_id": "00133",
+      "dest_stop_id": "00139",
+      "dep_time_str": "19:50:00"
+    },
+    {
+      "label": "Dundas/Hwy 407 -> Niagara Falls",
+      "route_short_name": "12",
+      "origin_stop_id": "00139",
+      "dest_stop_id": "02408",
+      "dep_time_str": "20:44:00"
+    }
+  ]
+}
+]

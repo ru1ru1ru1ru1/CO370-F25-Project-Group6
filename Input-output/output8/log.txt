@@ -1,0 +1,7 @@
+[INFO] Wrote 6 trips to output8/trips.csv
+[WARN] Transfer stop mismatch in itinerary 'Bloomington_to_Durham_option_1' between legs 'Bloomington GO -> Langstaff GO' and 'Richmond Hill Centre -> YMCA Blvd @ Kennedy Rd'. Using hub_stop_id=LA
+[ERROR] Could not find departure at hub=LA for trip=20251121-56-56041 in itinerary 'Bloomington_to_Durham_option_1'
+[WARN] Transfer stop mismatch in itinerary 'Bloomington_to_Durham_option_1' between legs 'Richmond Hill Centre -> YMCA Blvd @ Kennedy Rd' and 'YMCA Blvd @ Kennedy Rd -> Durham College Oshawa GO'. Using hub_stop_id=02141
+[WARN] Transfer stop mismatch in itinerary 'Bloomington_to_Durham_option_2' between legs 'Bloomington GO -> Yonge St @ Florence Ave' and 'Yonge St @ Florence Ave -> Durham College Oshawa GO'. Using hub_stop_id=01648
+[ERROR] Could not find departure at hub=01648 for trip=20251121-96-96131 in itinerary 'Bloomington_to_Durham_option_2'
+[INFO] Wrote 2 connections to output8/connections.csv

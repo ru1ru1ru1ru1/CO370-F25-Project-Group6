@@ -1,0 +1,14 @@
+[INFO] Wrote 12 trips to output6/trips.csv
+[WARN] Transfer stop mismatch in itinerary 'Erin Mills Transitway -> Barrie South Go bus_option_1' between legs 'Erin Mills Transitway -> Bramalea Go' and 'Bramalea Go -> Union Station Go'. Using hub_stop_id=08041
+[ERROR] Could not find departure at hub=08041 for trip=20251121-GT-3960 in itinerary 'Erin Mills Transitway -> Barrie South Go bus_option_1'
+[WARN] Transfer stop mismatch in itinerary 'Erin_Mills_to_Barrie_option_2' between legs 'Erin Mills Transitway -> Hwy 407 Bus Terminal' and 'Hwy 407 -> East Gwillimbury GO'. Using hub_stop_id=02673
+[ERROR] Could not find departure at hub=02673 for trip=20251121-66-66251 in itinerary 'Erin_Mills_to_Barrie_option_2'
+[WARN] Transfer stop mismatch in itinerary 'Erin_Mills_to_Barrie_option_2' between legs 'Hwy 407 -> East Gwillimbury GO' and 'East Gwillimbury -> Barrie South Go'. Using hub_stop_id=00276
+[ERROR] Could not find departure at hub=00276 for trip=20251121-BR-6911 in itinerary 'Erin_Mills_to_Barrie_option_2'
+[WARN] Transfer stop mismatch in itinerary 'Erin_Mills_to_Barrie_option_3' between legs 'Square One -> Union Station GO' and 'Union Station GO -> Barrie South GO'. Using hub_stop_id=02300
+[ERROR] Could not find departure at hub=02300 for trip=20251121-BR-6919 in itinerary 'Erin_Mills_to_Barrie_option_3'
+[WARN] Transfer stop mismatch in itinerary 'Erin_Mills_to_Barrie_option_4' between legs 'Erin Mills Transitway -> Bramalea Go' and 'Bramalea Go -> Union Station Go'. Using hub_stop_id=08041
+[ERROR] Could not find departure at hub=08041 for trip=20251121-GT-3520 in itinerary 'Erin_Mills_to_Barrie_option_4'
+[WARN] Transfer stop mismatch in itinerary 'Erin_Mills_to_Barrie_option_4' between legs 'Union Station -> Bradford GO' and 'Bradford -> Barrie South Go'. Using hub_stop_id=BD
+[ERROR] Could not find departure at hub=BD for trip=20251121-68-68461 in itinerary 'Erin_Mills_to_Barrie_option_4'
+[INFO] Wrote 3 connections to output6/connections.csv

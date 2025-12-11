@@ -1,0 +1,20 @@
+[INFO] Wrote 17 trips to output3/trips.csv
+[WARN] Transfer stop mismatch in itinerary 'pearson_to_barrie_option_1' between legs 'Hwy 407 -> Green Lane (Yonge)' and 'Green Lane (Yonge) -> Barrie South GO Bus'. Using hub_stop_id=02743
+[ERROR] Could not find departure at hub=02743 for trip=20251121-68-68101 in itinerary 'pearson_to_barrie_option_1'
+[WARN] Transfer stop mismatch in itinerary 'pearson_to_barrie_option_2' between legs 'Hwy 407 -> Bramalea' and 'Bramalea -> Union'. Using hub_stop_id=02728
+[ERROR] Could not find departure at hub=02728 for trip=20251121-GT-3210 in itinerary 'pearson_to_barrie_option_2'
+[WARN] Transfer stop mismatch in itinerary 'pearson_to_barrie_option_3' between legs 'Pearson -> Square One' and 'Square One -> Bramalea'. Using hub_stop_id=00133
+[ERROR] Could not find departure at hub=00133 for trip=20251121-56-56201 in itinerary 'pearson_to_barrie_option_3'
+[WARN] Transfer stop mismatch in itinerary 'pearson_to_barrie_option_3' between legs 'Square One -> Bramalea' and 'Bramalea -> Union (Kitchener line)'. Using hub_stop_id=08041
+[ERROR] Could not find departure at hub=08041 for trip=20251121-GT-3960 in itinerary 'pearson_to_barrie_option_3'
+[WARN] Transfer stop mismatch in itinerary 'pearson_to_barrie_option_4' between legs 'Pearson -> Renforth' and 'Renforth -> Kipling Bus Terminal'. Using hub_stop_id=02660
+[ERROR] Could not find departure at hub=02660 for trip=20251121-29-29240 in itinerary 'pearson_to_barrie_option_4'
+[WARN] Transfer stop mismatch in itinerary 'pearson_to_barrie_option_4' between legs 'Renforth -> Kipling Bus Terminal' and 'Kipling -> Union (Milton line)'. Using hub_stop_id=02778
+[ERROR] Could not find departure at hub=02778 for trip=20251121-MI-2726 in itinerary 'pearson_to_barrie_option_4'
+[WARN] Transfer stop mismatch in itinerary 'pearson_to_barrie_option_5' between legs 'Hwy 407 -> East Gwillimbury GO' and 'East Gwillimbury -> Barrie South (Barrie line)'. Using hub_stop_id=00276
+[ERROR] Could not find departure at hub=00276 for trip=20251121-BR-6911 in itinerary 'pearson_to_barrie_option_5'
+[WARN] Transfer stop mismatch in itinerary 'pearson_to_barrie_option_6' between legs 'Pearson -> Square One' and 'Square One -> Union (Milton bus)'. Using hub_stop_id=00133
+[ERROR] Could not find departure at hub=00133 for trip=20251121-21-21700 in itinerary 'pearson_to_barrie_option_6'
+[WARN] Transfer stop mismatch in itinerary 'pearson_to_barrie_option_6' between legs 'Square One -> Union (Milton bus)' and 'Union -> Barrie South (Barrie line)'. Using hub_stop_id=02300
+[ERROR] Could not find departure at hub=02300 for trip=20251121-BR-6935 in itinerary 'pearson_to_barrie_option_6'
+[INFO] Wrote 6 connections to output3/connections.csv

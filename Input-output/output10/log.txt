@@ -1,0 +1,16 @@
+[INFO] Wrote 17 trips to output10/trips.csv
+[WARN] Transfer stop mismatch in itinerary 'Square_One_to_Scarborough_option_1' between legs 'Square One -> Bramalea' and 'Bramalea -> Union Station'. Using hub_stop_id=08041
+[ERROR] Could not find departure at hub=08041 for trip=20251121-GT-3806 in itinerary 'Square_One_to_Scarborough_option_1'
+[WARN] Transfer stop mismatch in itinerary 'Square_One_to_Scarborough_option_2' between legs 'Square One -> Kipling' and 'Kipling -> Union'. Using hub_stop_id=02778
+[ERROR] Could not find departure at hub=02778 for trip=20251121-MI-2710 in itinerary 'Square_One_to_Scarborough_option_2'
+[WARN] Transfer stop mismatch in itinerary 'Square_One_to_Scarborough_option_2' between legs 'Union -> Scarborough' and 'Union -> Barrie South'. Using hub_stop_id=SC
+[ERROR] Could not find departure at hub=SC for trip=20251121-BR-6911 in itinerary 'Square_One_to_Scarborough_option_2'
+[WARN] Transfer stop mismatch in itinerary 'Square_One_to_Scarborough_option_3' between legs 'Square One -> Pickering' and 'Pickering -> Scarborough'. Using hub_stop_id=00147
+[ERROR] Could not find departure at hub=00147 for trip=20251121-LE-9211 in itinerary 'Square_One_to_Scarborough_option_3'
+[WARN] Transfer stop mismatch in itinerary 'Square_One_to_Scarborough_option_4' between legs 'Square One -> Erindale' and 'Erindale -> Union'. Using hub_stop_id=00189
+[ERROR] Could not find departure at hub=00189 for trip=20251121-MI-2718 in itinerary 'Square_One_to_Scarborough_option_4'
+[WARN] Transfer stop mismatch in itinerary 'Square_One_to_Scarborough_option_5' between legs 'Square One -> Oakville' and 'Oakville -> Union'. Using hub_stop_id=00137
+[ERROR] Could not find departure at hub=00137 for trip=20251121-LW-1710 in itinerary 'Square_One_to_Scarborough_option_5'
+[WARN] Transfer stop mismatch in itinerary 'Square_One_to_Scarborough_option_6' between legs 'Square One -> Union' and 'Union -> Scarborough'. Using hub_stop_id=02300
+[ERROR] Could not find departure at hub=02300 for trip=20251121-LE-9312 in itinerary 'Square_One_to_Scarborough_option_6'
+[INFO] Wrote 4 connections to output10/connections.csv

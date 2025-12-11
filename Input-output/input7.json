@@ -1,0 +1,151 @@
+[
+  {
+    "name": "University_of_Waterloo_to_Mount_Joy_option_1",
+    "legs": [
+      {
+        "label": "University of Waterloo -> Kitchener",
+        "route_short_name": "30",
+        "origin_stop_id": "02799",
+        "dest_stop_id": "02186",
+        "dep_time_str": "06:14:00"
+      },
+      {
+        "label": "Kitchener -> Union Station",
+        "route_short_name": "KI",
+        "origin_stop_id": "KI",
+        "dest_stop_id": "UN",
+        "dep_time_str": "07:08:00"
+      },
+      {
+        "label": "Union Station -> Mount Joy",
+        "route_short_name": "ST",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "MJ",
+        "dep_time_str": "09:00:00"
+      }
+    ]
+  },
+  {
+  "name": "University_of_Waterloo_to_Mount_Joy_option_2",
+  "legs": [
+    {
+      "label": "University of Waterloo -> Hwy 407",
+      "route_short_name": "30",
+      "origin_stop_id": "02799",
+      "dest_stop_id": "02673",
+      "dep_time_str": "06:14:00"
+    },
+    {
+      "label": "Hwy 407 -> Mount Joy",
+      "route_short_name": "54",
+      "origin_stop_id": "02674",
+      "dest_stop_id": "00121",
+      "dep_time_str": "09:10:00"
+    }
+  ]
+},
+  {
+    "name": "University_of_Waterloo_to_Mount_Joy_option_3",
+    "legs": [
+      {
+        "label": "University of Waterloo -> Erin Mills",
+        "route_short_name": "25",
+        "origin_stop_id": "02799",
+        "dest_stop_id": "02214",
+        "dep_time_str": "06:20:00"
+      },
+      {
+        "label": "Erin Mills -> Unionville",
+        "route_short_name": "56",
+        "origin_stop_id": "02214",
+        "dest_stop_id": "00128",
+        "dep_time_str": "08:09:00"
+      },
+      {
+        "label": "Unionville -> Mount Joy",
+        "route_short_name": "ST",
+        "origin_stop_id": "UI",
+        "dest_stop_id": "MJ",
+        "dep_time_str": "09:40:00"
+      }
+    ]
+  },
+  {
+    "name": "University_of_Waterloo_to_Mount_Joy_option_4",
+    "legs": [
+      {
+        "label": "University of Waterloo -> Square One",
+        "route_short_name": "25",
+        "origin_stop_id": "02799",
+        "dest_stop_id": "00132",
+        "dep_time_str": "06:20:00"
+      },
+      {
+        "label": "Square One -> Hwy 407",
+        "route_short_name": "41",
+        "origin_stop_id": "00132",
+        "dest_stop_id": "02674",
+        "dep_time_str": "08:13:00"
+      },
+      {
+        "label": "Hwy 407 -> Mount Joy",
+        "route_short_name": "54",
+        "origin_stop_id": "02674",
+        "dest_stop_id": "00121",
+        "dep_time_str": "09:10:00"
+      }
+    ]
+  },
+  {
+    "name": "University_of_Waterloo_to_Mount_Joy_option_5",
+    "legs": [
+      {
+        "label": "University of Waterloo -> Guelph",
+        "route_short_name": "17",
+        "origin_stop_id": "02799",
+        "dest_stop_id": "02519",
+        "dep_time_str": "06:55:00"
+      },
+      {
+        "label": "Guelph -> Union",
+        "route_short_name": "KI",
+        "origin_stop_id": "GL",
+        "dest_stop_id": "UN",
+        "dep_time_str": "08:27:00"
+      },
+      {
+        "label": "Union -> Mount Joy",
+        "route_short_name": "ST",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "MJ",
+        "dep_time_str": "10:00:00"
+      }
+    ]
+  },
+  {
+    "name": "University_of_Waterloo_to_Mount_Joy_option_6",
+    "legs": [
+      {
+        "label": "University of Waterloo -> Bramalea",
+        "route_short_name": "30",
+        "origin_stop_id": "02799",
+        "dest_stop_id": "08041",
+        "dep_time_str": "08:03:00"
+      },
+      {
+        "label": "Bramalea -> Unionville",
+        "route_short_name": "56",
+        "origin_stop_id": "08041",
+        "dest_stop_id": "00128",
+        "dep_time_str": "09:4:00"
+      },
+      {
+        "label": "Unionville -> Mount Joy",
+        "route_short_name": "ST",
+        "origin_stop_id": "UI",
+        "dest_stop_id": "MJ",
+        "dep_time_str": "10:40:00"
+      }
+    ]
+  }
+]

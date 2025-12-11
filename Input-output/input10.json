@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Square_One_to_Scarborough_option_1",
+    "legs": [
+      {
+        "label": "Square One -> Bramalea",
+        "route_short_name": "56",
+        "origin_stop_id": "00132",
+        "dest_stop_id": "08041",
+        "dep_time_str": "06:05:00"
+      },
+      {
+        "label": "Bramalea -> Union Station",
+        "route_short_name": "KI",
+        "origin_stop_id": "BE",
+        "dest_stop_id": "UN",
+        "dep_time_str": "06:28:00"
+      },
+      {
+        "label": "Union Station -> Scarborough",
+        "route_short_name": "LE",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "SC",
+        "dep_time_str": "07:12:00"
+      }
+    ]
+  },
+  {
+  "name": "Square_One_to_Scarborough_option_2",
+  "legs": [
+    {
+      "label": "Square One -> Kipling",
+      "route_short_name": "29",
+      "origin_stop_id": "00132",
+      "dest_stop_id": "02778",
+      "dep_time_str": "06:35:00"
+    },
+    {
+      "label": "Kipling -> Union",
+      "route_short_name": "MI",
+      "origin_stop_id": "KP",
+      "dest_stop_id": "UN",
+      "dep_time_str": "07:12:00"
+    },
+    {
+      "label": "Union -> Scarborough",
+      "route_short_name": "LE",
+      "origin_stop_id": "UN",
+      "dest_stop_id": "SC",
+      "dep_time_str": "07:39:00"
+    },
+    {
+      "label": "Union -> Barrie South",
+      "route_short_name": "BR",
+      "origin_stop_id": "UN",
+      "dest_stop_id": "BA",
+      "dep_time_str": "09:54:00"
+    }
+  ]
+},
+  {
+    "name": "Square_One_to_Scarborough_option_3",
+    "legs": [
+      {
+        "label": "Square One -> Pickering",
+        "route_short_name": "41",
+        "origin_stop_id": "00132",
+        "dest_stop_id": "00147",
+        "dep_time_str": "06:50:00"
+      },
+      {
+        "label": "Pickering -> Scarborough",
+        "route_short_name": "LE",
+        "origin_stop_id": "PIN",
+        "dest_stop_id": "SC",
+        "dep_time_str": "08:57:00"
+      }
+    ]
+  },
+  {
+    "name": "Square_One_to_Scarborough_option_4",
+    "legs": [
+      {
+        "label": "Square One -> Erindale",
+        "route_short_name": "21",
+        "origin_stop_id": "00133",
+        "dest_stop_id": "00189",
+        "dep_time_str": "07:27:00"
+      },
+      {
+        "label": "Erindale -> Union",
+        "route_short_name": "MI",
+        "origin_stop_id": "ER",
+        "dest_stop_id": "UN",
+        "dep_time_str": "07:55:00"
+      },
+      {
+        "label": "Union -> Scarborough",
+        "route_short_name": "LE",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "SC",
+        "dep_time_str": "08:39:00"
+      }
+    ]
+  },
+  {
+    "name": "Square_One_to_Scarborough_option_5",
+    "legs": [
+      {
+        "label": "Square One -> Oakville",
+        "route_short_name": "56",
+        "origin_stop_id": "00133",
+        "dest_stop_id": "00137",
+        "dep_time_str": "07:52:00"
+      },
+      {
+        "label": "Oakville -> Union",
+        "route_short_name": "LW",
+        "origin_stop_id": "OA",
+        "dest_stop_id": "UN",
+        "dep_time_str": "09:01:00"
+      },
+      {
+        "label": "Union -> Scarborough",
+        "route_short_name": "LE",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "SC",
+        "dep_time_str": "09:50:00"
+      }
+    ]
+  },
+  {
+    "name": "Square_One_to_Scarborough_option_6",
+    "legs": [
+      {
+        "label": "Square One -> Union",
+        "route_short_name": "21",
+        "origin_stop_id": "00132",
+        "dest_stop_id": "02300",
+        "dep_time_str": "09:20:00"
+      },
+      {
+        "label": "Union -> Scarborough",
+        "route_short_name": "LE",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "SC",
+        "dep_time_str": "10:50:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Milton_Go_to_Unionville_Go_option_1",
+    "legs": [
+      {
+        "label": "Milton -> Union Station",
+        "route_short_name": "MI",
+        "origin_stop_id": "ML",
+        "dest_stop_id": "UN",
+        "dep_time_str": "07:45:00"
+      },
+      {
+        "label": "Union Station -> Unionville",
+        "route_short_name": "ST",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "UI",
+        "dep_time_str": "09:00:00"
+      }
+    ]
+  },
+  {
+  "name": "Milton_Go_to_Unionville_Go_option_2",
+  "legs": [
+    {
+      "label": "Milton -> Mississauga @ Royal Bank",
+      "route_short_name": "27",
+      "origin_stop_id": "00194",
+      "dest_stop_id": "01440",
+      "dep_time_str": "07:15:00"
+    },
+    {
+      "label": "Mississauga @ Royal Bank -> Hwy 407",
+      "route_short_name": "30",
+      "origin_stop_id": "01440",
+      "dest_stop_id": "02673",
+      "dep_time_str": "08:22:00"
+    },
+    {
+      "label": "Hwy 407 -> Unionville",
+      "route_short_name": "56",
+      "origin_stop_id": "02673",
+      "dest_stop_id": "00128",
+      "dep_time_str": "09:37:00"
+    }
+  ]
+},
+  {
+    "name": "Milton_Go_to_Unionville_Go_option_3",
+    "legs": [
+      {
+        "label": "Milton -> Meadowvale",
+        "route_short_name": "MI",
+        "origin_stop_id": "ML",
+        "dest_stop_id": "ME",
+        "dep_time_str": "08:00:00"
+      },
+      {
+        "label": "Meadowvale -> Hwy 407",
+        "route_short_name": "48",
+        "origin_stop_id": "00129",
+        "dest_stop_id": "02673",
+        "dep_time_str": "08:26:00"
+      },
+      {
+        "label": "Hwy 407 -> Unionville",
+        "route_short_name": "56",
+        "origin_stop_id": "02673",
+        "dest_stop_id": "00128",
+        "dep_time_str": "09:37:00"
+      }
+    ]
+  },
+  {
+    "name": "Milton_Go_to_Unionville_Go_option_4",
+    "legs": [
+      {
+        "label": "Milton -> Union Station",
+        "route_short_name": "21",
+        "origin_stop_id": "00194",
+        "dest_stop_id": "02300",
+        "dep_time_str": "10:15:00"
+      },
+      {
+        "label": "Union Station - Yonge @ Hwy. ave",
+        "route_short_name": "61",
+        "origin_stop_id": "02300",
+        "dest_stop_id": "02771",
+        "dep_time_str": "11:45:00"
+      },
+      {
+        "label": "Yonge @ Garden. ave -> Unionville",
+        "route_short_name": "56",
+        "origin_stop_id": "02021",
+        "dest_stop_id": "00128",
+        "dep_time_str": "12:48:00"
+      }
+    ]
+  },
+  {
+    "name": "Milton_Go_to_Unionville_Go_option_5",
+    "legs": [
+      {
+        "label": "Milton -> Cooksville GO",
+        "route_short_name": "MI",
+        "origin_stop_id": "ML",
+        "dest_stop_id": "CO",
+        "dep_time_str": "06:30:00"
+      },
+      {
+        "label": "Cooksville GO -> Square One",
+        "route_short_name": "21",
+        "origin_stop_id": "02751",
+        "dest_stop_id": "00133",
+        "dep_time_str": "07:12:00"
+      },
+      {
+        "label": "Square One -> Unionville",
+        "route_short_name": "56",
+        "origin_stop_id": "00132",
+        "dest_stop_id": "00128",
+        "dep_time_str": "07:40:00"
+      }
+    ]
+  },
+  {
+    "name": "Milton_Go_to_Unionville_Go_option_6",
+    "legs": [
+      {
+        "label": "Milton -> Union",
+        "route_short_name": "MI",
+        "origin_stop_id": "ML",
+        "dest_stop_id": "UN",
+        "dep_time_str": "06:30:00"
+      },
+      {
+        "label": "Union -> Unionville",
+        "route_short_name": "71",
+        "origin_stop_id": "02300",
+        "dest_stop_id": "00128",
+        "dep_time_str": "07:43:00"
+      }
+    ]
+  }, 
+  {
+    "name": "Milton_Go_to_Unionville_Go_option_7",
+    "legs": [
+      {
+        "label": "Milton -> Trafalgar @ Hwy 407",
+        "route_short_name": "22",
+        "origin_stop_id": "00194",
+        "dest_stop_id": "02163",
+        "dep_time_str": "08:01:00"
+      },
+      {
+        "label": "Trafalgar @ Hwy 407 -> Yonge @ Hwy. ave",
+        "route_short_name": "40",
+        "origin_stop_id": "02163",
+        "dest_stop_id": "02771",
+        "dep_time_str": "08:30:00"
+      }, 
+      {
+        "label": "Yonge @ Garden. ave -> Unionville",
+        "route_short_name": "56",
+        "origin_stop_id": "02021",
+        "dest_stop_id": "00128",
+        "dep_time_str": "08:30:00"
+      }
+    ]
+  }
+]

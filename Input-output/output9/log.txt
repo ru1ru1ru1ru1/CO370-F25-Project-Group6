@@ -1,0 +1,6 @@
+[INFO] Wrote 5 trips to output9/trips.csv
+[WARN] Transfer stop mismatch in itinerary 'Townline @ Mill St. (Orangeville) Park & Ride -> Durham College Oshawa Go_option1' between legs 'Brampton Bus Terminal -> Bramalea Go' and 'Bramalea GO -> Union Station GO'. Using hub_stop_id=02728
+[ERROR] Could not find departure at hub=02728 for trip=20251121-GT-3028 in itinerary 'Townline @ Mill St. (Orangeville) Park & Ride -> Durham College Oshawa Go_option1'
+[WARN] Transfer stop mismatch in itinerary 'Townline @ Mill St. (Orangeville) Park & Ride -> Durham College Oshawa Go_option2' between legs 'Brampton Bus Terminal -> Bramalea GO' and 'Bramalea GO -> Durham College Oshawa GO'. Using hub_stop_id=02728
+[ERROR] Could not find departure at hub=02728 for trip=20251121-56-56541 in itinerary 'Townline @ Mill St. (Orangeville) Park & Ride -> Durham College Oshawa Go_option2'
+[INFO] Wrote 3 connections to output9/connections.csv

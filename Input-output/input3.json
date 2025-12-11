@@ -1,0 +1,179 @@
+[
+  {
+    "name": "pearson_to_barrie_option_1",
+    "legs": [
+      {
+        "label": "Pearson -> Hwy 407",
+        "route_short_name": "40",
+        "origin_stop_id": "PA",
+        "dest_stop_id": "02674",
+        "dep_time_str": "06:50:00"
+      },
+      {
+        "label": "Hwy 407 -> Green Lane (Yonge)",
+        "route_short_name": "66",
+        "origin_stop_id": "02674",
+        "dest_stop_id": "02743",
+        "dep_time_str": "07:10:00"
+      },
+      {
+        "label": "Green Lane (Yonge) -> Barrie South GO Bus",
+        "route_short_name": "68",
+        "origin_stop_id": "02683",
+        "dest_stop_id": "00345",
+        "dep_time_str": "08:40:00"
+      }
+    ]
+  },
+  {
+  "name": "pearson_to_barrie_option_2",
+  "legs": [
+    {
+      "label": "Pearson -> Hwy 407",
+      "route_short_name": "40",
+      "origin_stop_id": "PA",
+      "dest_stop_id": "02674",
+      "dep_time_str": "08:02:00"
+    },
+    {
+      "label": "Hwy 407 -> Bramalea",
+      "route_short_name": "41",
+      "origin_stop_id": "02674",
+      "dest_stop_id": "02728",
+      "dep_time_str": "08:30:00"
+    },
+    {
+      "label": "Bramalea -> Union",
+      "route_short_name": "KI",
+      "origin_stop_id": "BE",
+      "dest_stop_id": "UN",
+      "dep_time_str": "08:56:00"
+    },
+    {
+      "label": "Union -> Barrie South",
+      "route_short_name": "BR",
+      "origin_stop_id": "UN",
+      "dest_stop_id": "BA",
+      "dep_time_str": "09:54:00"
+    }
+  ]
+},
+  {
+    "name": "pearson_to_barrie_option_3",
+    "legs": [
+      {
+        "label": "Pearson -> Square One",
+        "route_short_name": "40",
+        "origin_stop_id": "PA",
+        "dest_stop_id": "00133",
+        "dep_time_str": "08:20:00"
+      },
+      {
+        "label": "Square One -> Bramalea",
+        "route_short_name": "56",
+        "origin_stop_id": "00132",
+        "dest_stop_id": "08041",
+        "dep_time_str": "08:52:00"
+      },
+      {
+        "label": "Bramalea -> Union (Kitchener line)",
+        "route_short_name": "KI",
+        "origin_stop_id": "BE",
+        "dest_stop_id": "UN",
+        "dep_time_str": "09:20:00"
+      },
+      {
+        "label": "Union -> Barrie South (Barrie line)",
+        "route_short_name": "BR",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "BA",
+        "dep_time_str": "09:54:00"
+      }
+    ]
+  },
+  {
+    "name": "pearson_to_barrie_option_4",
+    "legs": [
+      {
+        "label": "Pearson -> Renforth",
+        "route_short_name": "40",
+        "origin_stop_id": "PA",
+        "dest_stop_id": "02660",
+        "dep_time_str": "08:20:00"
+      },
+      {
+        "label": "Renforth -> Kipling Bus Terminal",
+        "route_short_name": "29",
+        "origin_stop_id": "02661",
+        "dest_stop_id": "02778",
+        "dep_time_str": "08:47:00"
+      },
+      {
+        "label": "Kipling -> Union (Milton line)",
+        "route_short_name": "MI",
+        "origin_stop_id": "KP",
+        "dest_stop_id": "UN",
+        "dep_time_str": "09:12:00"
+      },
+      {
+        "label": "Union -> Barrie South (Barrie line)",
+        "route_short_name": "BR",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "BA",
+        "dep_time_str": "09:54:00"
+      }
+    ]
+  },
+  {
+    "name": "pearson_to_barrie_option_5",
+    "legs": [
+      {
+        "label": "Pearson -> Hwy 407",
+        "route_short_name": "40",
+        "origin_stop_id": "PA",
+        "dest_stop_id": "02674",
+        "dep_time_str": "08:42:00"
+      },
+      {
+        "label": "Hwy 407 -> East Gwillimbury GO",
+        "route_short_name": "66",
+        "origin_stop_id": "02674",
+        "dest_stop_id": "00276",
+        "dep_time_str": "09:25:00"
+      },
+      {
+        "label": "East Gwillimbury -> Barrie South (Barrie line)",
+        "route_short_name": "BR",
+        "origin_stop_id": "EA",
+        "dest_stop_id": "BA",
+        "dep_time_str": "10:56:00"
+      }
+    ]
+  },
+  {
+    "name": "pearson_to_barrie_option_6",
+    "legs": [
+      {
+        "label": "Pearson -> Square One",
+        "route_short_name": "94",
+        "origin_stop_id": "PA",
+        "dest_stop_id": "00133",
+        "dep_time_str": "19:45:00"
+      },
+      {
+        "label": "Square One -> Union (Milton bus)",
+        "route_short_name": "21",
+        "origin_stop_id": "00132",
+        "dest_stop_id": "02300",
+        "dep_time_str": "20:34:00"
+      },
+      {
+        "label": "Union -> Barrie South (Barrie line)",
+        "route_short_name": "BR",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "BA",
+        "dep_time_str": "22:01:00"
+      }
+    ]
+  }
+]

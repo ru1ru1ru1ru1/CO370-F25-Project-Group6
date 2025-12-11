@@ -1,0 +1,12 @@
+[INFO] Wrote 17 trips to output4\trips.csv
+[WARN] Transfer stop mismatch in itinerary 'Milton_Go_to_Unionville_Go_option_3' between legs 'Milton -> Meadowvale' and 'Meadowvale -> Hwy 407'. Using hub_stop_id=ME
+[ERROR] Could not find departure at hub=ME for trip=20251121-48-48260 in itinerary 'Milton_Go_to_Unionville_Go_option_3'
+[WARN] Transfer stop mismatch in itinerary 'Milton_Go_to_Unionville_Go_option_4' between legs 'Union Station - Yonge @ Hwy. ave' and 'Yonge @ Garden. ave -> Unionville'. Using hub_stop_id=02771
+[WARN] Transfer stop mismatch in itinerary 'Milton_Go_to_Unionville_Go_option_5' between legs 'Milton -> Cooksville GO' and 'Cooksville GO -> Square One'. Using hub_stop_id=CO
+[ERROR] Could not find departure at hub=CO for trip=20251121-21-21111 in itinerary 'Milton_Go_to_Unionville_Go_option_5'
+[WARN] Transfer stop mismatch in itinerary 'Milton_Go_to_Unionville_Go_option_5' between legs 'Cooksville GO -> Square One' and 'Square One -> Unionville'. Using hub_stop_id=00133
+[ERROR] Could not find departure at hub=00133 for trip=20251121-56-56123 in itinerary 'Milton_Go_to_Unionville_Go_option_5'
+[WARN] Transfer stop mismatch in itinerary 'Milton_Go_to_Unionville_Go_option_6' between legs 'Milton -> Union' and 'Union -> Unionville'. Using hub_stop_id=UN
+[ERROR] Could not find departure at hub=UN for trip=20251121-71-71171 in itinerary 'Milton_Go_to_Unionville_Go_option_6'
+[WARN] Transfer stop mismatch in itinerary 'Milton_Go_to_Unionville_Go_option_7' between legs 'Trafalgar @ Hwy 407 -> Yonge @ Hwy. ave' and 'Yonge @ Garden. ave -> Unionville'. Using hub_stop_id=02771
+[INFO] Wrote 8 connections to output4\connections.csv

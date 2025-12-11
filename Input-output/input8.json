@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Bloomington_to_Durham_option_1",
+    "legs": [
+      {
+        "label": "Bloomington GO -> Langstaff GO",
+        "route_short_name": "RH",
+        "origin_stop_id": "BM",
+        "dest_stop_id": "LA",
+        "dep_time_str": "05:51:00"
+      },
+      {
+        "label": "Richmond Hill Centre -> YMCA Blvd @ Kennedy Rd",
+        "route_short_name": "56",
+        "origin_stop_id": "00350",
+        "dest_stop_id": "02141",
+        "dep_time_str": "06:35:00"
+      },
+      {
+        "label": "YMCA Blvd @ Kennedy Rd -> Durham College Oshawa GO",
+        "route_short_name": "56",
+        "origin_stop_id": "02144",
+        "dest_stop_id": "00159",
+        "dep_time_str": "06:57:00"
+      }
+    ]
+  },
+
+  {
+    "name": "Bloomington_to_Durham_option_2",
+    "legs": [
+      {
+        "label": "Bloomington GO -> Yonge St @ Florence Ave",
+        "route_short_name": "67",
+        "origin_stop_id": "02767",
+        "dest_stop_id": "01648",
+        "dep_time_str": "05:50:00"
+      },
+      {
+        "label": "Yonge St @ Florence Ave -> Durham College Oshawa GO",
+        "route_short_name": "96",
+        "origin_stop_id": "01647",
+        "dest_stop_id": "00159",
+        "dep_time_str": "07:12:00"
+      }
+    ]
+  },
+
+  {
+    "name": "Bloomington_to_Durham_option_3",
+    "legs": [
+      {
+        "label": "Bloomington GO -> Union Station GO",
+        "route_short_name": "RH",
+        "origin_stop_id": "BM",
+        "dest_stop_id": "UN",
+        "dep_time_str": "05:51:00"
+      },
+      {
+        "label": "Union Station GO -> Durham College Oshawa GO",
+        "route_short_name": "LE",
+        "origin_stop_id": "UN",
+        "dest_stop_id": "OS",
+        "dep_time_str": "07:12:00"
+      }
+    ]
+  }
+]

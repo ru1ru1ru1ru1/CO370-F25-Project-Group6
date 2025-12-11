@@ -1,0 +1,7 @@
+[INFO] Wrote 4 trips to output2/trips.csv
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_mcmaster_option_1' between legs 'University of Waterloo -> Bramalea' and 'Bramalea -> McMaster University (47D)'. Using hub_stop_id=08041
+[ERROR] Could not find departure at hub=08041 for trip=20251121-47-47103 in itinerary 'waterloo_to_mcmaster_option_1'
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_mcmaster_option_2' between legs 'University of Waterloo -> Erin Mills' and 'Erin Mills -> McMaster University (47G)'. Using hub_stop_id=02214
+[ERROR] Could not find departure at hub=02214 for trip=20251121-47-47095 in itinerary 'waterloo_to_mcmaster_option_2'
+[WARN] No connections built (maybe all itineraries are single-leg).
+[INFO] Wrote 0 connections to output2/connections.csv

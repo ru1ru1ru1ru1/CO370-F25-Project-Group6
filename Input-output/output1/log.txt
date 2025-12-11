@@ -1,0 +1,26 @@
+[INFO] Wrote 23 trips to output1/trips.csv
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_niagara_option_1' between legs 'University of Waterloo -> Erin Mills' and 'Erin Mills -> Dundas/Hwy 407 (47G)'. Using hub_stop_id=02214
+[ERROR] Could not find departure at hub=02214 for trip=20251121-47-47095 in itinerary 'waterloo_to_niagara_option_1'
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_niagara_option_2' between legs 'University of Waterloo -> Kitchener GO' and 'Kitchener GO -> Union (Kitchener line)'. Using hub_stop_id=02186
+[ERROR] Could not find departure at hub=02186 for trip=20251121-GT-3860 in itinerary 'waterloo_to_niagara_option_2'
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_niagara_option_2' between legs 'Union -> Burlington (Lakeshore West)' and 'Burlington -> Niagara Falls (12B)'. Using hub_stop_id=BU
+[ERROR] Could not find departure at hub=BU for trip=20251121-12-12313 in itinerary 'waterloo_to_niagara_option_2'
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_niagara_option_3' between legs 'University of Waterloo -> Aldershot' and 'Aldershot -> Niagara Falls (Lakeshore West)'. Using hub_stop_id=00180
+[ERROR] Could not find departure at hub=00180 for trip=20251121-LW-1961 in itinerary 'waterloo_to_niagara_option_3'
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_niagara_option_5' between legs 'University of Waterloo -> Aldershot' and 'Aldershot -> Burlington (Lakeshore West)'. Using hub_stop_id=00180
+[ERROR] Could not find departure at hub=00180 for trip=20251121-LW-1016 in itinerary 'waterloo_to_niagara_option_5'
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_niagara_option_5' between legs 'Aldershot -> Burlington (Lakeshore West)' and 'Burlington -> Niagara Falls (12B)'. Using hub_stop_id=BU
+[ERROR] Could not find departure at hub=BU for trip=20251121-12-12361 in itinerary 'waterloo_to_niagara_option_5'
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_niagara_option_6' between legs 'University of Waterloo -> Square One (25C)' and 'Square One -> Oakville (56)'. Using hub_stop_id=00132
+[ERROR] Could not find departure at hub=00132 for trip=20251121-56-56470 in itinerary 'waterloo_to_niagara_option_6'
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_niagara_option_6' between legs 'Square One -> Oakville (56)' and 'Oakville -> Burlington (Lakeshore West)'. Using hub_stop_id=00137
+[ERROR] Could not find departure at hub=00137 for trip=20251121-LW-1879 in itinerary 'waterloo_to_niagara_option_6'
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_niagara_option_6' between legs 'Oakville -> Burlington (Lakeshore West)' and 'Burlington -> Niagara Falls (12B)'. Using hub_stop_id=BU
+[ERROR] Could not find departure at hub=BU for trip=20251121-12-12691 in itinerary 'waterloo_to_niagara_option_6'
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_niagara_option_7' between legs 'University of Waterloo -> Aldershot' and 'Aldershot -> Confederation (Lakeshore West)'. Using hub_stop_id=00180
+[ERROR] Could not find departure at hub=00180 for trip=20251121-LW-1629 in itinerary 'waterloo_to_niagara_option_7'
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_niagara_option_7' between legs 'Aldershot -> Confederation (Lakeshore West)' and 'Confederation -> Niagara Falls'. Using hub_stop_id=CF
+[ERROR] Could not find departure at hub=CF for trip=20251121-12-12781 in itinerary 'waterloo_to_niagara_option_7'
+[WARN] Transfer stop mismatch in itinerary 'waterloo_to_niagara_option_8' between legs 'University of Waterloo -> Square One (25C)' and 'Square One -> Dundas/Hwy 407 (41)'. Using hub_stop_id=00132
+[ERROR] Could not find departure at hub=00132 for trip=20251121-41-41641 in itinerary 'waterloo_to_niagara_option_8'
+[INFO] Wrote 5 connections to output1/connections.csv

@@ -1,0 +1,14 @@
+[INFO] Wrote 16 trips to output11/trips.csv
+[WARN] Transfer stop mismatch in itinerary 'University_of_Waterloo_to_Maple_Go_option_1' between legs 'University of Waterloo -> Aldershot' and 'Aldershot -> Union Station'. Using hub_stop_id=00180
+[ERROR] Could not find departure at hub=00180 for trip=20251121-LW-1858 in itinerary 'University_of_Waterloo_to_Maple_Go_option_1'
+[WARN] Transfer stop mismatch in itinerary 'University_of_Waterloo_to_Maple_Go_option_2' between legs 'University of Waterloo -> Guelph Central Station' and 'Guelph Central Station -> Union Station'. Using hub_stop_id=02519
+[ERROR] Could not find departure at hub=02519 for trip=20251121-GT-3860 in itinerary 'University_of_Waterloo_to_Maple_Go_option_2'
+[WARN] Transfer stop mismatch in itinerary 'University_of_Waterloo_to_Maple_Go_option_3' between legs 'University of Waterloo -> Kitchener' and 'Kitchener -> Union Station'. Using hub_stop_id=02186
+[ERROR] Could not find departure at hub=02186 for trip=20251121-GT-3960 in itinerary 'University_of_Waterloo_to_Maple_Go_option_3'
+[WARN] Transfer stop mismatch in itinerary 'University_of_Waterloo_to_Maple_Go_option_4' between legs 'Square One -> Union Station' and 'Union Station -> Maple Go'. Using hub_stop_id=02300
+[ERROR] Could not find departure at hub=02300 for trip=20251121-BR-6315 in itinerary 'University_of_Waterloo_to_Maple_Go_option_4'
+[WARN] Transfer stop mismatch in itinerary 'University_of_Waterloo_to_Maple_Go_option_5' between legs 'Square One -> Bramalea GO' and 'Bramalea Go -> Union'. Using hub_stop_id=08041
+[ERROR] Could not find departure at hub=08041 for trip=20251121-GT-3514 in itinerary 'University_of_Waterloo_to_Maple_Go_option_5'
+[WARN] Transfer stop mismatch in itinerary 'University_of_Waterloo_to_Maple_Go_option_6' between legs 'Erin Mills -> Bramalea' and 'Bramalea -> Union'. Using hub_stop_id=08041
+[ERROR] Could not find departure at hub=08041 for trip=20251121-GT-3516 in itinerary 'University_of_Waterloo_to_Maple_Go_option_6'
+[INFO] Wrote 8 connections to output11/connections.csv
