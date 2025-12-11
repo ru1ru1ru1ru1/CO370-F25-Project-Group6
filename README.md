@@ -1,8 +1,20 @@
-# CO370-F25-Project-Group6
-The project data for the GO Transit optimization problem
+## GO Transit Optimization Dataset
 
-GO-GTFS is the original data published by GO Transit, you can find the latest verion from this link: https://www.gotransit.com/en/partner-with-us/software-developers
+This repository contains data used for the **GO Transit optimization problem**.
 
-We use the version downloaded at Nov 19.
+### Data Sources
 
-All-connections.csv and All-trips.csv contains the processed data of our choice.
+- **`GO-GTFS/`**: This folder contains the original [GTFS (General Transit Feed Specification)]data published by GO Transit.  
+  You can find the latest version here:  
+  [https://www.gotransit.com/en/partner-with-us/software-developers](https://www.gotransit.com/en/partner-with-us/software-developers)
+
+  > 📌 We used the version published on **November 19**.
+
+### Processed Data
+
+The following files contain filtered and structured data derived from the original GTFS feed:
+
+- **`All-trips.csv`**: A selected list of trips relevant to our optimization scenarios.
+- **`All-connections.csv`**: A selected list of viable transfer connections, extracted and processed for multi-leg trip planning.
+- **`optimized_schedule_results.csv`**: The final output of our optimization model, listing the best schedules selected with Penalty = 60 when a connection is missed.
+
